@@ -8,6 +8,7 @@
 *.doc	 diff=astextplain
 *.DOC	 diff=astextplain
 *.docx diff=pandoc
+*.DOCX diff=pandoc
 *.dot  diff=astextplain
 *.DOT  diff=astextplain
 *.pdf  diff=astextplain
