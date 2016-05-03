@@ -1,0 +1,85 @@
+---
+title: "Objectives, Indicators, and Measurements"
+date: "May 4, 2016"
+output: 
+  ioslides_presentation: 
+    transition: faster
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+## First steps: Setting the objectives
+
+Objectives are set when the Marine Reserve is designed:
+
+- What to monitor depends on objectives
+
+>- Example:
+
+>- A community may want two different types of reserves:
+
+>- **Fully** protected vs. **Partially** protected
+
+>- Indicators to evaluate each may be very different
+
+>- *Our framework and analysis must be reserve-specific, not community-specific*
+
+## Then
+
+- Establish a baseline (biophysical, socioeconomic, governance)
+
+>- Design **databases** and select **analysis** (failed [Eureka](http://eurekamarine.org/about-en/))
+
+>- Select periodicity of surveys
+
+## What COBI has been asking
+
+Information that can be presented to:
+
+>- Fishers and other users (asambly of fishers or comittees of MPAs)
+
+>- Agencies and individuals responsible for conservation and fisheries management (SAGARPA ~ SEMARNAT)
+
+>- Results that lead to:
+
+>- Adaptation of management strategies
+
+## What COBI is gathering
+
+- Baseline
+
+>- Annual monitoring (underwater ecological surveys)
+
+>- **No systematic** monitoring of socioeconomics and governance
+
+# Lack of coherence: **Here is where we come into play**
+
+## What COBI wants (this project)
+
+A way to evaluate No Take Zones (different) that allows them to adapt management:
+
+>- How am I doing?
+
+>- What should I do to be better?
+
+# Extra slides
+
+## Community envolvement
+
+- COBI evaluates which set of indicators are subject to be compiled by community members
+
+>- All communities have "survey divers" that are trained (accordingly) to monitor their *reserves and control* sites (selection criteria)
+
+>- Some communities have members that have been trained in *Oceanographic monitoring*
+
+>- Other data is gathered by NGO's, Government Agencies, Research Institutes or any *combination of the above*
+
+## About Eureka
+
+You can add information (abundance and size) for invertebrate and fish species monitored with transects quadrants or cylinders of any size.
+
+You may also compare the information on abundance and size on any species inside and outside of the no-take zones over time (yearly), and obtain a graphic report of this comparison, and per site.
+
+
