@@ -1,5 +1,5 @@
 ---
-title: "Objectives, Indicators, and Measurements"
+title: "COBI's Q&A to data"
 date: "May 4, 2016"
 output: 
   ioslides_presentation: 
@@ -10,35 +10,43 @@ output:
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-## First steps: Setting the objectives
+## Structure
 
-Objectives are set when the Marine Reserve is designed:
+- Design of data collection (matching goals and data)
 
-- What to monitor depends on objectives
+- What they are collecting (and how)
 
->- Example:
+- Uses of that data
 
->- A community may want two different types of reserves:
-
->- **Fully** protected vs. **Partially** protected
-
->- Indicators to evaluate each may be very different
-
->- *Our framework and analysis must be reserve-specific, not community-specific*
-
-## Then
+## Design of data collection
 
 - Establish a baseline (biophysical, socioeconomic, governance)
+
+>- Objectives/goals are set when the Marine Reserve is designed
+
+>- What to monitor depends on objectives of the reserve (partial, total, temporal, permanent?)
 
 >- Design **databases** and select **analysis** (failed [Eureka](http://eurekamarine.org/about-en/))
 
 >- Select periodicity of surveys
 
+## What COBI is gathering
+
+- Baseline
+
+>- Underwater ecological surveys: abundance, sizes, richness of key species(harvested, sentinel, or of interest)
+
+>- Equal frequency of monitoring between reserve and control: once a year (roughly same time)
+
+>- **No systematic** monitoring of socioeconomics and governance --> in process of implementing it (Mario Rojo)
+
+>- **No systematic** monitoring of landings (just for certified fisheries), but NOM-049 requires it --> Also in the process (Antonio Gómez)
+
 ## What COBI has been asking
 
-Information that can be presented to:
+Information (trends, time series) that can be presented to:
 
->- Fishers and other users (asambly of fishers or comittees of MPAs)
+- Fishers and other users (assembly of fishers or comittees of MPAs)
 
 >- Agencies and individuals responsible for conservation and fisheries management (SAGARPA ~ SEMARNAT)
 
@@ -46,27 +54,21 @@ Information that can be presented to:
 
 >- Adaptation of management strategies
 
-## What COBI is gathering
+>- **No evaluation of effectiveness, yet**
 
-- Baseline
+# Questions?
 
->- Annual monitoring (underwater ecological surveys)
-
->- **No systematic** monitoring of socioeconomics and governance
-
-# Lack of coherence: **Here is where we come into play**
+# Extra slides
 
 ## What COBI wants (this project)
 
 A way to evaluate No Take Zones (different) that allows them to adapt management:
 
->- How am I doing?
+>- How am I doing? (and what I need to know to ask that question)
 
 >- What should I do to be better?
 
-# Extra slides
-
-## Community envolvement
+## Community involvement
 
 - COBI evaluates which set of indicators are subject to be compiled by community members
 
