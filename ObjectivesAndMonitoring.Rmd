@@ -40,7 +40,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 >- **No systematic** monitoring of socioeconomics and governance --> in process of implementing it (Mario Rojo)
 
->- **No systematic** monitoring of landings (just for certified fisheries), but NOM-049 requires it --> Also in the process (Antonio Gómez)
+>- **No systematic** monitoring of landings (just for certified fisheries), but NOM-049 requires it --> Also in the process (Antonio G?mez)
 
 ## What COBI has been asking
 
